@@ -1,1 +1,2 @@
 # Salary_Pridiction_Model
+In this Machine Learning Project, I imported a dataset called Adult.csv and use it to train and build models which are able to tell if the salary of a person is more or less than 50,000 by judging on various factors. I used and compared many ML algorithms such as Rondom Forest Classifier, Support Vector Machine(SVM) Classifier, Decision Tree Classifier, KNN Classifier And Logistic Regression.
